@@ -1,0 +1,129 @@
+{
+  "AccommodationLocation": {
+    "Athens": [
+      {
+        "Name": "Hotel Greek",
+        "Price": "200",
+        "Distance from airport": "1200"
+      },
+      {
+        "Name": "Altiana",
+        "Price": "120",
+        "Distance from airport": "800"
+      },
+      {
+        "Name": "Maltius",
+        "Price": "1200",
+        "Distance from airport": "1600"
+      }
+    ],
+    "Bucharest": [
+      {
+        "Name": "Hotel Einst",
+        "Price": "300",
+        "Distance from airport": "1500"
+      },
+      {
+        "Name": "Miralyn",
+        "Price": "120",
+        "Distance from airport": "850"
+      }
+    ],
+    "Edinburgh": [
+      {
+        "Name": "Hotel Burgh",
+        "Price": "600",
+        "Distance from airport": "2000"
+      },
+      {
+        "Name": "Hotel Edin",
+        "Price": "720",
+        "Distance from airport": "1850"
+      }
+    ],
+    "Madrid": [
+      {
+        "Name": "Hotel Madrid",
+        "Price": "2000",
+        "Distance from airport": "3000"
+      },
+      {
+        "Name": "Hotel Real",
+        "Price": "720",
+        "Distance from airport": "900"
+      }
+    ],
+    "Milan": [
+      {
+        "Name": "Hotel Milan",
+        "Price": "1300",
+        "Distance from airport": "2500"
+      },
+      {
+        "Name": "Hotel AC",
+        "Price": "220",
+        "Distance from airport": "850"
+      }
+    ],
+    "London": [
+      {
+        "Name": "Hotel London",
+        "Price": "1300",
+        "Distance from airport": "1500"
+      },
+      {
+        "Name": "Bridger",
+        "Price": "2120",
+        "Distance from airport": "850"
+      }
+    ],
+    "Moscow": [
+      {
+        "Name": "Hotel Russia",
+        "Price": "300",
+        "Distance from airport": "1500"
+      },
+      {
+        "Name": "Hotel Putin",
+        "Price": "12000",
+        "Distance from airport": "8850"
+      }
+    ],
+    "Munich": [
+      {
+        "Name": "Hotel Munica",
+        "Price": "600",
+        "Distance from airport": "190"
+      },
+      {
+        "Name": "Muniches",
+        "Price": "420",
+        "Distance from airport": "750"
+      }
+    ],
+    "Warsaw": [
+      {
+        "Name": "Hotel Kingsaw",
+        "Price": "1300",
+        "Distance from airport": "1500"
+      },
+      {
+        "Name": "Louis Hutt",
+        "Price": "1120",
+        "Distance from airport": "1850"
+      }
+    ],
+    "Paris": [
+      {
+        "Name": "Paris with Love",
+        "Price": "3300",
+        "Distance from airport": "1500"
+      },
+      {
+        "Name": "French Palace",
+        "Price": "1120",
+        "Distance from airport": "450"
+      }
+    ]
+  }
+}
