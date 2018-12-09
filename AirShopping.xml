@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AirShoppingRQ xmlns="http://www.iata.org/IATA/EDIST/2017.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.iata.org/IATA/EDIST/2017.1 ../../../ndc171facades/resources/ndc/xsds/AirShoppingRQ.xsd" Version="IATA2017.1">
+  <Document>
+    <Name>TRVACC NDC GATEWAY</Name>
+    <ReferenceVersion>1.0</ReferenceVersion>
+  </Document>
+  <Party>
+    <Sender>
+      <TravelAgencySender>
+        <AgencyID Owner="HTA">HTA</AgencyID>
+      </TravelAgencySender>
+    </Sender>
+  </Party>
+  <Parameters>
+        <CurrCodes>
+          <FiledInCurrency>
+              <CurrCode>GBP</CurrCode>
+          </FiledInCurrency>
+        </CurrCodes>
+    </Parameters>
+  <CoreQuery>
+    <OriginDestinations>
+      <OriginDestination>
+        <Departure>
+          <AirportCode>LGW</AirportCode>
+          <Date>2019-12-11</Date>
+        </Departure>
+        <Arrival>
+          <AirportCode>OTP</AirportCode>
+        </Arrival>
+      </OriginDestination>
+    </OriginDestinations>
+  </CoreQuery>
+  <Preference>
+        <CabinPreferences>
+            <CabinType>
+                <Code>J</Code>
+            </CabinType>
+        </CabinPreferences>
+    </Preference>
+  <DataLists>
+    <PassengerList>
+      <Passenger PassengerID="ADT1">
+        <PTC>ADT</PTC>
+      </Passenger>
+    </PassengerList>
+  </DataLists>
+</AirShoppingRQ>
