@@ -1,0 +1,10 @@
+OTP: Bucharest
+MUC: Munich
+EDI: Edinburgh
+LGW: London
+MAD: Madrid
+MXP: Milan
+CDG: Paris
+ATH: Athens
+MOW: Moscow
+WAW: Warsaw
